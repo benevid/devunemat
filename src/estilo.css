@@ -1,0 +1,18 @@
+.titulos{
+    color: blue;
+    border-width: 1px;
+    border-style: dotted;
+    border-color: brown;
+}
+h1 {
+    color: chartreuse;
+}
+ a:hover{
+    color: grey;
+}
+a.xiq:link{
+    color:red;
+}
+a.xiq:visited{
+    color: hotpink;
+}
