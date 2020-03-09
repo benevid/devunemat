@@ -378,8 +378,6 @@ Existem três tipos principais de formatos de imagem que você deve usar.
 - Formatos com perdas - úteis para exibir imagens ricas. Usar um formato sem perdas, como PNG, seria uma ordem de magnitude maior se usado em tais imagens. O formato mais comum usado nesta categoria é JPG.
 - Formatos animados - úteis para mostrar imagens animadas curtas. O formato mais comum é o GIF, embora seja um formato muito antigo e amplamente suportado, com muitas desvantagens inerentes, como um limite de 256 cores em cada quadro e uma compactação ruim.
 
-## Paramos AQUI ⚠️
-
 ### Estilos
 
 ------
@@ -818,6 +816,8 @@ body {
 ```
 
 Temos outras propriedades para manipular a fonte, como a propriedade `font-style`, que define o estilo da fonte que pode ser: `normal` (normal na vertical), `italic` (inclinada) e `oblique` (oblíqua).
+
+## Paramos AQUI ⚠️
 
 ### Alinhamento e decoração
 
